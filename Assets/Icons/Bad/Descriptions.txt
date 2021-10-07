@@ -1,0 +1,15 @@
+Adware: Annoying software that bombards you with unwanted ads. Most adware is safe, but sometimes it can track you and collect information.
+
+Malware: Malicious software written to infect and harm the host system or user.
+
+Other threats: Be wary of fake sites and apps which steal your data, and zero-day exploits which might compromise your computer if you don't update in time.
+
+Ransomware: A type of malware which takes your device hostage. Hackers request a ransom payment in exchange for returning your files.
+
+Rootkit: A bit of software which hides on your computer and provides remote access and control. Hackers use rootkits to manipulate your computer without your consent.
+
+Spyware: Hard to detect malware which collects information about what you do online. Keyloggers are a type of spyware which record everything you type.
+
+Trojan: Malware which pretends to be something useful or helpful but actually steals data. Trojans often silently download other malware.
+
+Virus: A piece of code loaded onto your computer without your knowledge or permission. Viruses can spread across networks and gain control over many computers.
